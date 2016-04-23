@@ -4,14 +4,11 @@ const express = require('express');
 const morgan = require('morgan');
 const app = express();
 const port = 3000;
-const eonet = require('./eonet-api.js');
 
-app.use(express.static(__dirname + '/../cesium-npm'));
+app.use(express.static(__dirname + '/../public'));
 app.use(morgan('dev'));
 
-eonet.getAllEvents({
-  status: 'open'
-});
+require('./middleware/middleware.js')(app, express);
 
 app.listen(port);
 
