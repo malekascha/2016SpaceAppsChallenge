@@ -11,6 +11,8 @@ module.exports = {
       let obj = {};
       obj.name = data[i]['Country Name'];
       obj.population = data[i][year];
+      obj.lat = data[i]['lat'];
+      obj.long = data[i]['long'];
       results.push(obj);
     }
     return results;
@@ -18,6 +20,8 @@ module.exports = {
 }
 
 
-function queryDB(cb){
-  return fs.readFileSync(__dirname + '/../data/populationData.json', 'utf-8');
+function queryDB(){
+  return fs.readFileSync(__dirname + '/../data/populationWithCoords.json', 'utf-8');
 } 
+
+queryDB();
