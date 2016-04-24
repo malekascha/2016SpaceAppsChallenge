@@ -42,7 +42,7 @@ var updateMap = function(e){
     currentInterval = interval;
   }
 };
-viewer.clock.onTick.addEventListener(updateMap); 
+viewer.clock.onTick.addEventListener(updateMap);
 
 $('button').click(function(e){
   e.preventDefault();
@@ -53,6 +53,8 @@ $('button').click(function(e){
     currentUpdateFunction = updateFunctions.earthquakes;
   } else if (elem.hasClass('eonetCurrent')){
     currentUpdateFunction = updateFunctions.eonetCurrent;
+  } else if (elem.hasClass('volcanoes')){
+    currentUpdateFunction = updateFunctions.volcanoes;
   }
   renderData();
 })
@@ -91,6 +93,14 @@ var updateFunctions = {
       url: '/data/earthquake?year=' + newYear,
       success: function(res){
         generateEarthquakeCollection(res);
+      }
+    })
+  },
+  volcanoes: function(newYear){
+    $.ajax({
+      url: '/data/volcanoes?year=' + newYear,
+      success: function(res){
+        generateVolcanoCollection(res);
       }
     })
   }
