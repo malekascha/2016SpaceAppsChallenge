@@ -34,7 +34,7 @@ module.exports = {
 }
 
 function queryDB(){
-  return fs.readFileSync(__dirname + '/../data/earthquakes.json', 'utf-8');
+  return fs.readFileSync(__dirname + '/../data/volcanoes.json', 'utf-8');
 }
 
 queryDB();
