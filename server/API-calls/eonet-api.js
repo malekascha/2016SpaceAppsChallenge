@@ -3,7 +3,7 @@
 const request = require('request');
 
 module.exports = {
-  getAllEvents: function (options) {
+  getAllEvents: function (options, route) {
     var queryString = 'http://eonet.sci.gsfc.nasa.gov/api/v2.1/events?';
     if(options){
       if(options.status){
@@ -18,7 +18,7 @@ module.exports = {
       if(err){
         console.log(err);
       } else {
-        console.log(body);
+        route.send(body);
       }
     })
   }
