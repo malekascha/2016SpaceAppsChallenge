@@ -18,6 +18,8 @@ module.exports = {
         obj.occurrence = data[i]['occurrence'];
         obj.deaths = data[i]['Total deaths'] || 0;
         obj.iso = data[i]['iso'];
+        obj.rating = data[i]['severity rating'];
+        obj.muOccur = data[i]['average deaths per occurance'];
 
         results.push(obj);
       }
@@ -28,7 +30,7 @@ module.exports = {
 }
 
 function queryDB(){
-  return fs.readFileSync(__dirname + '/../data/droughts.json', 'utf-8');
+  return fs.readFileSync(__dirname + '/../data/drought.json', 'utf-8');
 }
 
 queryDB();

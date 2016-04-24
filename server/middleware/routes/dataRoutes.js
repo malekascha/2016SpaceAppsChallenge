@@ -37,6 +37,12 @@ module.exports = function(app){
     res.send(flood.getFloodsByYear(query.year));
   })
 
+    app.get('/wildfire', function(req, res){
+    let url_parts = url.parse(req.url, true);
+    let query = url_parts.query;
+    res.send(flood.getFloodsByYear(query.year));
+  })
+
   app.get('/drought', function(req, res){
     let url_parts = url.parse(req.url, true);
     let query = url_parts.query;
@@ -48,6 +54,6 @@ module.exports = function(app){
     let query = url_parts.query;
     res.send(storm.getStormByYear(query.year));
   });
-  
+
 };
 
