@@ -8,7 +8,13 @@ var clock = new Cesium.Clock({
   clockRange: Cesium.ClockRange.LOOP_STOP
 });
 var viewer = new Cesium.Viewer('cesiumContainer', {
-  clock: clock
+  clock: clock,
+  baseLayerPicker: false,
+  imageryProvider: new Cesium.BingMapsImageryProvider({
+    url: 'https://dev.virtualearth.net',
+    key: Cesium.BingMapsApi.defaultKey,
+    mapStyle: Cesium.BingMapsStyle.AERIAL_WITH_LABELS
+  })
 });
 var currentInterval;
 
@@ -28,11 +34,11 @@ var intervalCollection = new Cesium.TimeIntervalCollection(intervals);
 var redCircle = function(long,lat,pop,size,countryName) {
    return {
      position: Cesium.Cartesian3.fromDegrees(long, lat),
-     ellipse : {
-       semiMinorAxis : size,
-       semiMajorAxis : size,
-       height: 200000.0,
-       material : Cesium.Color.RED.withAlpha(0.5)
+     cylinder : {
+       topRadius : 20,
+       bottomRadius : size,
+       length: size,
+       material : Cesium.Color.BLUE.withAlpha(0.5)
      },
      label: {
       
@@ -60,30 +66,49 @@ var sizer = function(pop) {
  var popLimit = 100000000, base = 100000;
  return size = (pop/popLimit) * base;
 };
-var what;
+var currentUpdateFunction = function(){
+  return;
+};
 var updateMap = function(e){
   var interval = intervalCollection.findIntervalContainingDate(viewer.clock.currentTime);
-  if(!what){
-    what = true;
-    console.dir(viewer.clock.currentTime);
-  }
   if(!(interval === currentInterval)){
-    var newYear = getYearFromJulian(viewer.clock.currentTime);
-    viewer.entities.removeAll();
+    renderData();
     currentInterval = interval;
-    $.ajax({
-      url: '/data/population?year=' + newYear,
-      success: function(res){
-        console.dir(res);
-        viewer.entities.add(circleMaker(res));
-      }
-    });
   }
 };
 viewer.clock.onTick.addEventListener(updateMap); 
+
+$('button').click(function(e){
+  e.preventDefault();
+  var elem = $(this).parent();
+  if(elem.hasClass('population')){
+    currentUpdateFunction = updateFunctions.population;
+  } else if (elem.hasClass('earthquakes')) {
+    currentUpdateFunction = updateFunctions.earthquakes;
+  }
+  renderData();
+})
 
 function getYearFromJulian(julian){
   var unixTime = Date.parse(julian.toString());
   var date = new Date(unixTime);
   return date.getFullYear();
+}
+
+function renderData(){
+  var newYear = getYearFromJulian(viewer.clock.currentTime);
+  viewer.entities.removeAll();
+  currentUpdateFunction(newYear);
+}
+
+var updateFunctions = {
+  population: function(newYear){
+    $.ajax({
+        url: '/data/population?year=' + newYear,
+        success: function(res){
+          console.dir(res);
+          viewer.entities.add(circleMaker(res));
+        }
+    });
+  }
 }
