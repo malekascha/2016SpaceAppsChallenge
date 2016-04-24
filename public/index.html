@@ -13,6 +13,9 @@
         padding: 0;
         overflow: hidden;
       }
+      div{
+        display:inline-block;
+      }
 
       .toolbar-left {
         display: block;
@@ -21,35 +24,41 @@
         left: 5px;
       }
 
-.floating-box {
-    display: inline-block;
-    width: 250px;
-    height: 90px;
-    margin: 10px;
-    border: 2px solid #FFFFFF;
-    background-color: #000000; 
-}
+      .floating-box {
+          display: inline-block;
+          width: 250px;
+          height: 90px;
+          margin: 10px;
+          border: 2px solid #FFFFFF;
+          background-color: #000000; 
+      }
   </style>
 </head>
 <body>
   <div id="cesiumContainer"></div>
   <div class="toolbar-left">
 <div class="floating-box" >
-<button class="population">Populations</button>
-<button class="eonetCurrent">Current Events</button> 
+  <div class="menu-panel">
+    <button class="population">Populations</button>
+    <button class="earthquakes"> Earthquakes</button>
+    <button class="volcanoes">Volcanoes</button>
+    <button class="floods">Floods</button>
+  </div>
+  <div class="menu-panel">
+    <button class="eonetCurrent">Current Events</button> 
+    <button class="storms">Storms</button>
+    <button class="wildfires">Wildfires</button>
+    <button>Droughts</button>
+  </div>
 <br>
-<button class="earthquakes"> Earthquakes</button>
-<button class="storms">Storms</button>
 <br>
-<button class="volcanoes">Volcanoes</button>
-<button class="wildfires">Wildfires</button>
 <br>
-<button class="floods">Floods</button>
-<button>Droughts</button>
 </div>
   </div>
 
-  <script type="text/javascript" src="cesium-code/circles.js"></script>
+  <script type="text/javascript" src="cesium-code/earthquakes.js"></script>
+  <script type="text/javascript" src="cesium-code/eonet.js"></script>
+  <script type="text/javascript" src="cesium-code/population.js"></script>
   <script type="text/javascript" src="cesium-code/app.js"></script>
 </body>
 </html>
