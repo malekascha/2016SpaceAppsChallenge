@@ -98,7 +98,7 @@ var updateFunctions = {
   },
   volcanoes: function(newYear){
     $.ajax({
-      url: '/data/volcanoes?year=' + newYear,
+      url: '/data/volcano?year=' + newYear,
       success: function(res){
         generateVolcanoCollection(res);
       }
