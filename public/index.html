@@ -4,6 +4,7 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
   <script src="node_modules/cesium/Build/CesiumUnminified/Cesium.js"></script>
   <style>
+
       @import url(node_modules/cesium/Build/CesiumUnminified/Widgets/widgets.css);
       html, body, #cesiumContainer {
         width: 100%;
@@ -19,19 +20,36 @@
         top: 5px;
         left: 5px;
       }
+
+.floating-box {
+    display: inline-block;
+    width: 250px;
+    height: 90px;
+    margin: 10px;
+    border: 2px solid #FFFFFF;
+    background-color: #000000; 
+}
   </style>
 </head>
 <body>
   <div id="cesiumContainer"></div>
   <div class="toolbar-left">
+<div class="floating-box" >
     <button class="population">Populations</button>
-    <button class="earthquakes">Earthquakes</button>
-    <button class="eonetCurrent">Current Events</button>
+    <button class="eonet">Current Events</button> 
+<br>
+<button>Earthquakes</button>
+<button class="eonet">Storms</button>
+<br>
+<button class="eonet">Volcanoes</button>
+<button class="eonet">Wildfires</button>
+<br>
+<button class="eonet">Floods</button>
+<button>Droughts</button>
+</div>
   </div>
 
-  <script type="text/javascript" src="cesium-code/earthquakes.js"></script>
-  <script type="text/javascript" src="cesium-code/eonet.js"></script>
-  <script type="text/javascript" src="cesium-code/population.js"></script>
+  <script type="text/javascript" src="cesium-code/circles.js"></script>
   <script type="text/javascript" src="cesium-code/app.js"></script>
 </body>
 </html>
