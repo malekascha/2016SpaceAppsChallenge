@@ -1,0 +1,2130 @@
+[
+  {
+    "year":2000,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":37
+  },
+  {
+    "year":2000,
+    "iso":"ARM",
+    "country_name":"Armenia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"AZE",
+    "country_name":"Azerbaijan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"BIH",
+    "country_name":"Bosnia and Herzegovina",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":3,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"CYP",
+    "country_name":"Cyprus",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"GEO",
+    "country_name":"Georgia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":20
+  },
+  {
+    "year":2000,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"JOR",
+    "country_name":"Jordan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"MDA",
+    "country_name":"Moldova (the Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":2
+  },
+  {
+    "year":2000,
+    "iso":"MNG",
+    "country_name":"Mongolia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"ROU",
+    "country_name":"Romania",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":21
+  },
+  {
+    "year":2000,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"TJK",
+    "country_name":"Tajikistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2000,
+    "iso":"UZB",
+    "country_name":"Uzbekistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"AGO",
+    "country_name":"Angola",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":58
+  },
+  {
+    "year":2001,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"BFA",
+    "country_name":"Burkina Faso",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"KHM",
+    "country_name":"Cambodia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"CMR",
+    "country_name":"Cameroon",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"TCD",
+    "country_name":"Chad",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"DJI",
+    "country_name":"Djibouti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":41
+  },
+  {
+    "year":2001,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"MLI",
+    "country_name":"Mali",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"MRT",
+    "country_name":"Mauritania",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"NAM",
+    "country_name":"Namibia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"SWZ",
+    "country_name":"Swaziland",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2001,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"CPV",
+    "country_name":"Cabo Verde",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"KHM",
+    "country_name":"Cambodia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":3,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"GNB",
+    "country_name":"Guinea-Bissau",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":500
+  },
+  {
+    "year":2002,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":9
+  },
+  {
+    "year":2002,
+    "iso":"NAM",
+    "country_name":"Namibia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"PER",
+    "country_name":"Peru",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"SEN",
+    "country_name":"Senegal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":79
+  },
+  {
+    "year":2002,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2002,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"BIH",
+    "country_name":"Bosnia and Herzegovina",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"HRV",
+    "country_name":"Croatia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"HUN",
+    "country_name":"Hungary",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":9
+  },
+  {
+    "year":2003,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"RWA",
+    "country_name":"Rwanda",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2003,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"AGO",
+    "country_name":"Angola",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"KEN",
+    "country_name":"Kenya",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":80
+  },
+  {
+    "year":2004,
+    "iso":"PER",
+    "country_name":"Peru",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2004,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"DZA",
+    "country_name":"Algeria",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":12
+  },
+  {
+    "year":2005,
+    "iso":"BWA",
+    "country_name":"Botswana",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":120
+  },
+  {
+    "year":2005,
+    "iso":"KHM",
+    "country_name":"Cambodia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"CMR",
+    "country_name":"Cameroon",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"DJI",
+    "country_name":"Djibouti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"KEN",
+    "country_name":"Kenya",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":27
+  },
+  {
+    "year":2005,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"MLI",
+    "country_name":"Mali",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":2
+  },
+  {
+    "year":2005,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2005,
+    "iso":"ZMB",
+    "country_name":"Zambia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":134
+  },
+  {
+    "year":2006,
+    "iso":"GNB",
+    "country_name":"Guinea-Bissau",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"LTU",
+    "country_name":"Lithuania",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"MLI",
+    "country_name":"Mali",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"NPL",
+    "country_name":"Nepal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"PER",
+    "country_name":"Peru",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2006,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"DJI",
+    "country_name":"Djibouti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"MDA",
+    "country_name":"Moldova (the Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"SWZ",
+    "country_name":"Swaziland",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"TLS",
+    "country_name":"Timor-Leste",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2007,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"DJI",
+    "country_name":"Djibouti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"ERI",
+    "country_name":"Eritrea",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"KEN",
+    "country_name":"Kenya",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":4
+  },
+  {
+    "year":2008,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":4
+  },
+  {
+    "year":2008,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"SYR",
+    "country_name":"Syrian Arab Republic",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"TJK",
+    "country_name":"Tajikistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2008,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"TCD",
+    "country_name":"Chad",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"ECU",
+    "country_name":"Ecuador",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"KGZ",
+    "country_name":"Kyrgyzstan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"NPL",
+    "country_name":"Nepal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2009,
+    "iso":"VEN",
+    "country_name":"Venezuela (Bolivarian Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"BRB",
+    "country_name":"Barbados",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"DJI",
+    "country_name":"Djibouti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"GRD",
+    "country_name":"Grenada",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"GUY",
+    "country_name":"Guyana",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"MLI",
+    "country_name":"Mali",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"MRT",
+    "country_name":"Mauritania",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"LCA",
+    "country_name":"Saint Lucia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":20000
+  },
+  {
+    "year":2010,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"TTO",
+    "country_name":"Trinidad and Tobago",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2010,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"BFA",
+    "country_name":"Burkina Faso",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"KEN",
+    "country_name":"Kenya",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"MLI",
+    "country_name":"Mali",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"MRT",
+    "country_name":"Mauritania",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"SEN",
+    "country_name":"Senegal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"TUV",
+    "country_name":"Tuvalu",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2011,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"AGO",
+    "country_name":"Angola",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"TCD",
+    "country_name":"Chad",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"MDA",
+    "country_name":"Moldova (the Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"UKR",
+    "country_name":"Ukraine",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2012,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"ECU",
+    "country_name":"Ecuador",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"MHL",
+    "country_name":"Marshall Islands (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"NAM",
+    "country_name":"Namibia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"PAN",
+    "country_name":"Panama",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2013,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"BFA",
+    "country_name":"Burkina Faso",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"KEN",
+    "country_name":"Kenya",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"MYS",
+    "country_name":"Malaysia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"SEN",
+    "country_name":"Senegal",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2014,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"BWA",
+    "country_name":"Botswana",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"CRI",
+    "country_name":"Costa Rica",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Drought",
+    "occurrence":2,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":11
+  },
+  {
+    "year":2015,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"NAM",
+    "country_name":"Namibia",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"PAN",
+    "country_name":"Panama",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"PNG",
+    "country_name":"Papua New Guinea",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":24
+  },
+  {
+    "year":2015,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"WSM",
+    "country_name":"Samoa",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"TON",
+    "country_name":"Tonga",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  },
+  {
+    "year":2015,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Drought",
+    "occurrence":1,
+    "Total deaths":null
+  }
+]
