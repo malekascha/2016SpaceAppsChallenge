@@ -51,8 +51,8 @@ $('button').click(function(e){
     currentUpdateFunction = updateFunctions.population;
   } else if (elem.hasClass('earthquakes')) {
     currentUpdateFunction = updateFunctions.earthquakes;
-  } else if (elem.hasClass('eonet')){
-    currentUpdateFunction = updateFunctions.eonet;
+  } else if (elem.hasClass('eonetCurrent')){
+    currentUpdateFunction = updateFunctions.eonetCurrent;
   }
   renderData();
 })
@@ -78,11 +78,12 @@ var updateFunctions = {
         }
     });
   },
-  eonet: function(){
+  eonetCurrent: function(){
     $.ajax({
       url: '/data/eonet',
       success: function(res){
-        
+        console.dir(res);
+        viewer.entities.add(generateEventCollection(JSON.parse(res)));
       }
     })
   }
