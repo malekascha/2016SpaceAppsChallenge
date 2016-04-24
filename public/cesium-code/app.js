@@ -109,6 +109,7 @@ var updateFunctions = {
       url: '/data/volcano?year=' + newYear,
       success: function(res){
         generateVolcanoCollection(res);
+        $('.spinner').css('visibility','hidden');
       }
     })
   }
