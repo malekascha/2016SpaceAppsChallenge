@@ -1,0 +1,7312 @@
+[
+  {
+    "year":2000,
+    "iso":"DZA",
+    "country_name":"Algeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2000,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2000,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":1,
+    "severity rating":1.8,
+    "average deaths per occurance":0.333333333
+  },
+  {
+    "year":2000,
+    "iso":"AUT",
+    "country_name":"Austria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":99,
+    "severity rating":91.2,
+    "average deaths per occurance":14.14285714
+  },
+  {
+    "year":2000,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2000,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2000,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":162,
+    "severity rating":148.8,
+    "average deaths per occurance":16.2
+  },
+  {
+    "year":2000,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2000,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2000,
+    "iso":"GIN",
+    "country_name":"Guinea",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2000,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2000,
+    "iso":"IRL",
+    "country_name":"Ireland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2000,
+    "iso":"ISR",
+    "country_name":"Israel",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2000,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":13,
+    "severity rating":12.6,
+    "average deaths per occurance":4.333333333
+  },
+  {
+    "year":2000,
+    "iso":"JOR",
+    "country_name":"Jordan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2000,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":46,
+    "severity rating":41.7,
+    "average deaths per occurance":46
+  },
+  {
+    "year":2000,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":33,
+    "severity rating":30.3,
+    "average deaths per occurance":16.5
+  },
+  {
+    "year":2000,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":153,
+    "severity rating":138.3,
+    "average deaths per occurance":76.5
+  },
+  {
+    "year":2000,
+    "iso":"MYS",
+    "country_name":"Malaysia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":31,
+    "severity rating":28.5,
+    "average deaths per occurance":15.5
+  },
+  {
+    "year":2000,
+    "iso":"MDA",
+    "country_name":"Moldova (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"MNG",
+    "country_name":"Mongolia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":23,
+    "severity rating":21.3,
+    "average deaths per occurance":11.5
+  },
+  {
+    "year":2000,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":32,
+    "severity rating":30,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2000,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2000,
+    "iso":"NGA",
+    "country_name":"Nigeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":394,
+    "severity rating":356.4,
+    "average deaths per occurance":65.66666667
+  },
+  {
+    "year":2000,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2000,
+    "iso":"REU",
+    "country_name":"R�union",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2000,
+    "iso":"ROU",
+    "country_name":"Romania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2000,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2000,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2000,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2000,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2000,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":103,
+    "severity rating":93.3,
+    "average deaths per occurance":51.5
+  },
+  {
+    "year":2000,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2000,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"UKR",
+    "country_name":"Ukraine",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":10,
+    "severity rating":9.9,
+    "average deaths per occurance":3.333333333
+  },
+  {
+    "year":2000,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":16,
+    "severity rating":15,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2000,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":11,
+    "Total deaths":48,
+    "severity rating":46.5,
+    "average deaths per occurance":4.363636364
+  },
+  {
+    "year":2000,
+    "iso":"URY",
+    "country_name":"Uruguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":23,
+    "severity rating":22.8,
+    "average deaths per occurance":3.285714286
+  },
+  {
+    "year":2001,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":20,
+    "severity rating":18.6,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2001,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":2,
+    "severity rating":2.7,
+    "average deaths per occurance":0.666666667
+  },
+  {
+    "year":2001,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":238,
+    "severity rating":215.4,
+    "average deaths per occurance":59.5
+  },
+  {
+    "year":2001,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":30,
+    "severity rating":27.6,
+    "average deaths per occurance":15
+  },
+  {
+    "year":2001,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2001,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2001,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2001,
+    "iso":"CYM",
+    "country_name":"Cayman Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2001,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2001,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":344,
+    "severity rating":312.6,
+    "average deaths per occurance":34.4
+  },
+  {
+    "year":2001,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2001,
+    "iso":"COK",
+    "country_name":"Cook Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"CRI",
+    "country_name":"Costa Rica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2001,
+    "iso":"DMA",
+    "country_name":"Dominica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2001,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2001,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2001,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2001,
+    "iso":"GEO",
+    "country_name":"Georgia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2001,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2001,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":21,
+    "severity rating":19.2,
+    "average deaths per occurance":21
+  },
+  {
+    "year":2001,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":99,
+    "severity rating":90,
+    "average deaths per occurance":33
+  },
+  {
+    "year":2001,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2001,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":22,
+    "severity rating":21,
+    "average deaths per occurance":5.5
+  },
+  {
+    "year":2001,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2001,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2001,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":5,
+    "severity rating":6,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2001,
+    "iso":"MNG",
+    "country_name":"Mongolia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2001,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2001,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2001,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":587,
+    "severity rating":530.1,
+    "average deaths per occurance":97.83333333
+  },
+  {
+    "year":2001,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2001,
+    "iso":"SHN",
+    "country_name":"Saint Helena, Ascension and Tristan da Cunha",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2001,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2001,
+    "iso":"SYR",
+    "country_name":"Syrian Arab Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":27,
+    "severity rating":24.6,
+    "average deaths per occurance":27
+  },
+  {
+    "year":2001,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":195,
+    "severity rating":177,
+    "average deaths per occurance":39
+  },
+  {
+    "year":2001,
+    "iso":"TJK",
+    "country_name":"Tajikistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"TON",
+    "country_name":"Tonga",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":17,
+    "Total deaths":82,
+    "severity rating":78.9,
+    "average deaths per occurance":4.823529412
+  },
+  {
+    "year":2001,
+    "iso":"VUT",
+    "country_name":"Vanuatu",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2001,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":53,
+    "severity rating":48.6,
+    "average deaths per occurance":17.66666667
+  },
+  {
+    "year":2001,
+    "iso":"YEM",
+    "country_name":"Yemen",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":30,
+    "severity rating":27.6,
+    "average deaths per occurance":15
+  },
+  {
+    "year":2002,
+    "iso":"ALB",
+    "country_name":"Albania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2002,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2002,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":null,
+    "severity rating":0.9,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"AUT",
+    "country_name":"Austria",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2002,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":122,
+    "severity rating":111,
+    "average deaths per occurance":30.5
+  },
+  {
+    "year":2002,
+    "iso":"BRB",
+    "country_name":"Barbados",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2002,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":20,
+    "severity rating":18.3,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2002,
+    "iso":"CYM",
+    "country_name":"Cayman Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":108,
+    "severity rating":99,
+    "average deaths per occurance":18
+  },
+  {
+    "year":2002,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2002,
+    "iso":"CZE",
+    "country_name":"Czech Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2002,
+    "iso":"DNK",
+    "country_name":"Denmark",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2002,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":5,
+    "severity rating":5.1,
+    "average deaths per occurance":2.5
+  },
+  {
+    "year":2002,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":22,
+    "severity rating":20.7,
+    "average deaths per occurance":7.333333333
+  },
+  {
+    "year":2002,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"GUM",
+    "country_name":"Guam",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2002,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":144,
+    "severity rating":130.8,
+    "average deaths per occurance":36
+  },
+  {
+    "year":2002,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":7,
+    "severity rating":7.8,
+    "average deaths per occurance":1.4
+  },
+  {
+    "year":2002,
+    "iso":"JOR",
+    "country_name":"Jordan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2002,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2002,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":204,
+    "severity rating":184.5,
+    "average deaths per occurance":68
+  },
+  {
+    "year":2002,
+    "iso":"LBN",
+    "country_name":"Lebanon",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":23,
+    "severity rating":21.6,
+    "average deaths per occurance":7.666666667
+  },
+  {
+    "year":2002,
+    "iso":"MYS",
+    "country_name":"Malaysia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"MUS",
+    "country_name":"Mauritius",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2002,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":16,
+    "severity rating":15.3,
+    "average deaths per occurance":5.333333333
+  },
+  {
+    "year":2002,
+    "iso":"FSM",
+    "country_name":"Micronesia (Federated States of)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":47,
+    "severity rating":42.9,
+    "average deaths per occurance":23.5
+  },
+  {
+    "year":2002,
+    "iso":"MNG",
+    "country_name":"Mongolia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2002,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2002,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"NER",
+    "country_name":"Niger (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"MNP",
+    "country_name":"Northern Mariana Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"OMN",
+    "country_name":"Oman",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2002,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2002,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"PER",
+    "country_name":"Peru",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":59,
+    "severity rating":53.4,
+    "average deaths per occurance":59
+  },
+  {
+    "year":2002,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":215,
+    "severity rating":195.3,
+    "average deaths per occurance":35.83333333
+  },
+  {
+    "year":2002,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":9,
+    "severity rating":8.7,
+    "average deaths per occurance":4.5
+  },
+  {
+    "year":2002,
+    "iso":"REU",
+    "country_name":"R�union",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"VCT",
+    "country_name":"Saint Vincent and the Grenadines",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"SYC",
+    "country_name":"Seychelles",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":23,
+    "severity rating":21.9,
+    "average deaths per occurance":5.75
+  },
+  {
+    "year":2002,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":33,
+    "severity rating":30,
+    "average deaths per occurance":33
+  },
+  {
+    "year":2002,
+    "iso":"SWE",
+    "country_name":"Sweden",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2002,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2002,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2002,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2002,
+    "iso":"TUR",
+    "country_name":"Turkey",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2002,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2002,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":15,
+    "Total deaths":339,
+    "severity rating":309.6,
+    "average deaths per occurance":22.6
+  },
+  {
+    "year":2002,
+    "iso":"URY",
+    "country_name":"Uruguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"DZA",
+    "country_name":"Algeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2003,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2003,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":1,
+    "severity rating":2.4,
+    "average deaths per occurance":0.2
+  },
+  {
+    "year":2003,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":60,
+    "severity rating":54.9,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2003,
+    "iso":"BMU",
+    "country_name":"Bermuda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2003,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2003,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":61,
+    "severity rating":56.4,
+    "average deaths per occurance":12.2
+  },
+  {
+    "year":2003,
+    "iso":"COM",
+    "country_name":"Comoros (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":28,
+    "severity rating":25.8,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2003,
+    "iso":"CYP",
+    "country_name":"Cyprus",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2003,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":17,
+    "severity rating":15.6,
+    "average deaths per occurance":17
+  },
+  {
+    "year":2003,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":6,
+    "severity rating":6,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2003,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2003,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":15,
+    "severity rating":14.1,
+    "average deaths per occurance":7.5
+  },
+  {
+    "year":2003,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":26,
+    "severity rating":23.7,
+    "average deaths per occurance":26
+  },
+  {
+    "year":2003,
+    "iso":"HKG",
+    "country_name":"Hong Kong",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2003,
+    "iso":"HUN",
+    "country_name":"Hungary",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2003,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":164,
+    "severity rating":149.7,
+    "average deaths per occurance":23.42857143
+  },
+  {
+    "year":2003,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":21,
+    "severity rating":19.5,
+    "average deaths per occurance":10.5
+  },
+  {
+    "year":2003,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":130,
+    "severity rating":117.3,
+    "average deaths per occurance":130
+  },
+  {
+    "year":2003,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":89,
+    "severity rating":81,
+    "average deaths per occurance":29.66666667
+  },
+  {
+    "year":2003,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2003,
+    "iso":"FSM",
+    "country_name":"Micronesia (Federated States of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2003,
+    "iso":"NCL",
+    "country_name":"New Caledonia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2003,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2003,
+    "iso":"OMN",
+    "country_name":"Oman",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":30,
+    "severity rating":27.3,
+    "average deaths per occurance":30
+  },
+  {
+    "year":2003,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":51,
+    "severity rating":46.2,
+    "average deaths per occurance":51
+  },
+  {
+    "year":2003,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":95,
+    "severity rating":87.9,
+    "average deaths per occurance":11.875
+  },
+  {
+    "year":2003,
+    "iso":"PRI",
+    "country_name":"Puerto Rico",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2003,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":172,
+    "severity rating":159,
+    "average deaths per occurance":12.28571429
+  },
+  {
+    "year":2003,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2004,
+    "iso":"ASM",
+    "country_name":"American Samoa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":3,
+    "severity rating":3.6,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":12,
+    "severity rating":11.7,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2004,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":239,
+    "severity rating":216.3,
+    "average deaths per occurance":59.75
+  },
+  {
+    "year":2004,
+    "iso":"BRB",
+    "country_name":"Barbados",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2004,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"CYM",
+    "country_name":"Cayman Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":249,
+    "severity rating":226.2,
+    "average deaths per occurance":35.57142857
+  },
+  {
+    "year":2004,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"CYP",
+    "country_name":"Cyprus",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":15,
+    "severity rating":14.4,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2004,
+    "iso":"EGY",
+    "country_name":"Egypt",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2004,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2004,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2004,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"GRD",
+    "country_name":"Grenada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":39,
+    "severity rating":35.4,
+    "average deaths per occurance":39
+  },
+  {
+    "year":2004,
+    "iso":"GUM",
+    "country_name":"Guam",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2004,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2757,
+    "severity rating":2481.9,
+    "average deaths per occurance":1378.5
+  },
+  {
+    "year":2004,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"IRL",
+    "country_name":"Ireland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":16,
+    "severity rating":15,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2004,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":287,
+    "severity rating":261,
+    "average deaths per occurance":31.88888889
+  },
+  {
+    "year":2004,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":14,
+    "severity rating":13.8,
+    "average deaths per occurance":3.5
+  },
+  {
+    "year":2004,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":395,
+    "severity rating":356.1,
+    "average deaths per occurance":197.5
+  },
+  {
+    "year":2004,
+    "iso":"MYS",
+    "country_name":"Malaysia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2004,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":20,
+    "severity rating":18.3,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2004,
+    "iso":"FSM",
+    "country_name":"Micronesia (Federated States of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"MMR",
+    "country_name":"Myanmar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":236,
+    "severity rating":212.7,
+    "average deaths per occurance":236
+  },
+  {
+    "year":2004,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"NIU",
+    "country_name":"Niue",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"MNP",
+    "country_name":"Northern Mariana Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2004,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":1861,
+    "severity rating":1677.3,
+    "average deaths per occurance":232.625
+  },
+  {
+    "year":2004,
+    "iso":"PRI",
+    "country_name":"Puerto Rico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"ROU",
+    "country_name":"Romania",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":12,
+    "severity rating":11.7,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2004,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":9,
+    "severity rating":9,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2004,
+    "iso":"LCA",
+    "country_name":"Saint Lucia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"VCT",
+    "country_name":"Saint Vincent and the Grenadines",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"WSM",
+    "country_name":"Samoa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"SEN",
+    "country_name":"Senegal",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"SVK",
+    "country_name":"Slovakia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"SYR",
+    "country_name":"Syrian Arab Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2004,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":79,
+    "severity rating":72.6,
+    "average deaths per occurance":15.8
+  },
+  {
+    "year":2004,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2004,
+    "iso":"TON",
+    "country_name":"Tonga",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"TTO",
+    "country_name":"Trinidad and Tobago",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2004,
+    "iso":"TUR",
+    "country_name":"Turkey",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":25,
+    "severity rating":23.4,
+    "average deaths per occurance":8.333333333
+  },
+  {
+    "year":2004,
+    "iso":"TCA",
+    "country_name":"Turks and Caicos Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":11,
+    "Total deaths":159,
+    "severity rating":146.4,
+    "average deaths per occurance":14.45454545
+  },
+  {
+    "year":2004,
+    "iso":"VUT",
+    "country_name":"Vanuatu",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"VEN",
+    "country_name":"Venezuela (Bolivarian Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2004,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":70,
+    "severity rating":63.6,
+    "average deaths per occurance":35
+  },
+  {
+    "year":2004,
+    "iso":"VIR",
+    "country_name":"Virgin Island (U.S.)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":260,
+    "severity rating":234.3,
+    "average deaths per occurance":260
+  },
+  {
+    "year":2005,
+    "iso":"ALB",
+    "country_name":"Albania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"DZA",
+    "country_name":"Algeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2005,
+    "iso":"ASM",
+    "country_name":"American Samoa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2005,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2005,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2005,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":177,
+    "severity rating":161.4,
+    "average deaths per occurance":25.28571429
+  },
+  {
+    "year":2005,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2005,
+    "iso":"BIH",
+    "country_name":"Bosnia and Herzegovina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2005,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"SPI",
+    "country_name":"Canary Is",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":19,
+    "severity rating":17.4,
+    "average deaths per occurance":19
+  },
+  {
+    "year":2005,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":45,
+    "severity rating":40.8,
+    "average deaths per occurance":45
+  },
+  {
+    "year":2005,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":426,
+    "severity rating":387.6,
+    "average deaths per occurance":30.42857143
+  },
+  {
+    "year":2005,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2005,
+    "iso":"COK",
+    "country_name":"Cook Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"CRI",
+    "country_name":"Costa Rica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2005,
+    "iso":"HRV",
+    "country_name":"Croatia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":20,
+    "severity rating":18.6,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2005,
+    "iso":"CZE",
+    "country_name":"Czech Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"DNK",
+    "country_name":"Denmark",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2005,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2005,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":69,
+    "severity rating":62.7,
+    "average deaths per occurance":34.5
+  },
+  {
+    "year":2005,
+    "iso":"EST",
+    "country_name":"Estonia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"GRD",
+    "country_name":"Grenada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2005,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1513,
+    "severity rating":1362,
+    "average deaths per occurance":1513
+  },
+  {
+    "year":2005,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":71,
+    "severity rating":65.4,
+    "average deaths per occurance":14.2
+  },
+  {
+    "year":2005,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":53,
+    "severity rating":48.9,
+    "average deaths per occurance":13.25
+  },
+  {
+    "year":2005,
+    "iso":"HUN",
+    "country_name":"Hungary",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2005,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":82,
+    "severity rating":75,
+    "average deaths per occurance":20.5
+  },
+  {
+    "year":2005,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"IRL",
+    "country_name":"Ireland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":6,
+    "severity rating":6.3,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":135,
+    "severity rating":122.4,
+    "average deaths per occurance":45
+  },
+  {
+    "year":2005,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":11,
+    "severity rating":10.8,
+    "average deaths per occurance":3.666666667
+  },
+  {
+    "year":2005,
+    "iso":"LVA",
+    "country_name":"Latvia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"LTU",
+    "country_name":"Lithuania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"MKD",
+    "country_name":"Macedonia (the former Yugoslav Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2005,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":78,
+    "severity rating":70.5,
+    "average deaths per occurance":78
+  },
+  {
+    "year":2005,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2005,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":47,
+    "severity rating":43.5,
+    "average deaths per occurance":11.75
+  },
+  {
+    "year":2005,
+    "iso":"MAR",
+    "country_name":"Morocco",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2005,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":7,
+    "severity rating":6.9,
+    "average deaths per occurance":3.5
+  },
+  {
+    "year":2005,
+    "iso":"NOR",
+    "country_name":"Norway",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":58,
+    "severity rating":52.5,
+    "average deaths per occurance":58
+  },
+  {
+    "year":2005,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":34,
+    "severity rating":31.2,
+    "average deaths per occurance":17
+  },
+  {
+    "year":2005,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"ROU",
+    "country_name":"Romania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2005,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"VCT",
+    "country_name":"Saint Vincent and the Grenadines",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"WSM",
+    "country_name":"Samoa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2005,
+    "iso":"SCG",
+    "country_name":"Serbia Montenegro",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"SWZ",
+    "country_name":"Swaziland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"SWE",
+    "country_name":"Sweden",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2005,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":17,
+    "severity rating":16.5,
+    "average deaths per occurance":4.25
+  },
+  {
+    "year":2005,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":10,
+    "severity rating":9.6,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2005,
+    "iso":"TKL",
+    "country_name":"Tokelau",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"TTO",
+    "country_name":"Trinidad and Tobago",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"TUR",
+    "country_name":"Turkey",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":10,
+    "severity rating":9.6,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2005,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":1882,
+    "severity rating":1696.2,
+    "average deaths per occurance":235.25
+  },
+  {
+    "year":2005,
+    "iso":"URY",
+    "country_name":"Uruguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2005,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":116,
+    "severity rating":105.6,
+    "average deaths per occurance":29
+  },
+  {
+    "year":2006,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":71,
+    "severity rating":64.5,
+    "average deaths per occurance":35.5
+  },
+  {
+    "year":2006,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":null,
+    "severity rating":0.9,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":154,
+    "severity rating":140.1,
+    "average deaths per occurance":30.8
+  },
+  {
+    "year":2006,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":1500,
+    "severity rating":1352.4,
+    "average deaths per occurance":187.5
+  },
+  {
+    "year":2006,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2006,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":5,
+    "severity rating":5.1,
+    "average deaths per occurance":2.5
+  },
+  {
+    "year":2006,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":11,
+    "severity rating":10.8,
+    "average deaths per occurance":3.666666667
+  },
+  {
+    "year":2006,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2006,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2006,
+    "iso":"HUN",
+    "country_name":"Hungary",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2006,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":190,
+    "severity rating":171.6,
+    "average deaths per occurance":95
+  },
+  {
+    "year":2006,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2006,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":20,
+    "severity rating":18.9,
+    "average deaths per occurance":6.666666667
+  },
+  {
+    "year":2006,
+    "iso":"KGZ",
+    "country_name":"Kyrgyzstan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2006,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2006,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":15,
+    "severity rating":14.4,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2006,
+    "iso":"MMR",
+    "country_name":"Myanmar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":34,
+    "severity rating":30.9,
+    "average deaths per occurance":34
+  },
+  {
+    "year":2006,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":1805,
+    "severity rating":1627.5,
+    "average deaths per occurance":180.5
+  },
+  {
+    "year":2006,
+    "iso":"SWZ",
+    "country_name":"Swaziland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2006,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2006,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2006,
+    "iso":"TLS",
+    "country_name":"Timor-Leste",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":12,
+    "Total deaths":93,
+    "severity rating":87.3,
+    "average deaths per occurance":7.75
+  },
+  {
+    "year":2006,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":401,
+    "severity rating":362.7,
+    "average deaths per occurance":66.83333333
+  },
+  {
+    "year":2007,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"AUT",
+    "country_name":"Austria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4275,
+    "severity rating":3848.1,
+    "average deaths per occurance":2137.5
+  },
+  {
+    "year":2007,
+    "iso":"BLR",
+    "country_name":"Belarus",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":6,
+    "severity rating":6,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2007,
+    "iso":"TCD",
+    "country_name":"Chad",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2007,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":95,
+    "severity rating":87.3,
+    "average deaths per occurance":15.83333333
+  },
+  {
+    "year":2007,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2007,
+    "iso":"CZE",
+    "country_name":"Czech Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2007,
+    "iso":"DNK",
+    "country_name":"Denmark",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"DMA",
+    "country_name":"Dominica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":163,
+    "severity rating":147.6,
+    "average deaths per occurance":54.33333333
+  },
+  {
+    "year":2007,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2007,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":5,
+    "severity rating":5.4,
+    "average deaths per occurance":1.666666667
+  },
+  {
+    "year":2007,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":18,
+    "severity rating":16.8,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2007,
+    "iso":"GLP",
+    "country_name":"Guadeloupe",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":102,
+    "severity rating":92.7,
+    "average deaths per occurance":34
+  },
+  {
+    "year":2007,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2007,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":5,
+    "severity rating":5.1,
+    "average deaths per occurance":2.5
+  },
+  {
+    "year":2007,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":13,
+    "severity rating":12.6,
+    "average deaths per occurance":4.333333333
+  },
+  {
+    "year":2007,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":20,
+    "severity rating":18.3,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2007,
+    "iso":"LBR",
+    "country_name":"Liberia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":84,
+    "severity rating":76.5,
+    "average deaths per occurance":28
+  },
+  {
+    "year":2007,
+    "iso":"MTQ",
+    "country_name":"Martinique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"MUS",
+    "country_name":"Mauritius",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":20,
+    "severity rating":19.2,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2007,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2007,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2007,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":188,
+    "severity rating":169.5,
+    "average deaths per occurance":188
+  },
+  {
+    "year":2007,
+    "iso":"OMN",
+    "country_name":"Oman",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":76,
+    "severity rating":68.7,
+    "average deaths per occurance":76
+  },
+  {
+    "year":2007,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":242,
+    "severity rating":218.1,
+    "average deaths per occurance":242
+  },
+  {
+    "year":2007,
+    "iso":"PNG",
+    "country_name":"Papua New Guinea",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":172,
+    "severity rating":155.1,
+    "average deaths per occurance":172
+  },
+  {
+    "year":2007,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":89,
+    "severity rating":82.8,
+    "average deaths per occurance":9.888888889
+  },
+  {
+    "year":2007,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":19,
+    "severity rating":17.7,
+    "average deaths per occurance":9.5
+  },
+  {
+    "year":2007,
+    "iso":"PRI",
+    "country_name":"Puerto Rico",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"REU",
+    "country_name":"R�union",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"LCA",
+    "country_name":"Saint Lucia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"SVN",
+    "country_name":"Slovenia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":6,
+    "severity rating":6,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2007,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":18,
+    "severity rating":16.8,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2007,
+    "iso":"UKR",
+    "country_name":"Ukraine",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2007,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":13,
+    "Total deaths":245,
+    "severity rating":224.4,
+    "average deaths per occurance":18.84615385
+  },
+  {
+    "year":2007,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":96,
+    "severity rating":86.7,
+    "average deaths per occurance":96
+  },
+  {
+    "year":2007,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"ATG",
+    "country_name":"Antigua and Barbuda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2008,
+    "iso":"AUT",
+    "country_name":"Austria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2008,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":27,
+    "severity rating":24.9,
+    "average deaths per occurance":13.5
+  },
+  {
+    "year":2008,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2008,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2008,
+    "iso":"CYM",
+    "country_name":"Cayman Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":66,
+    "severity rating":62.1,
+    "average deaths per occurance":7.333333333
+  },
+  {
+    "year":2008,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2008,
+    "iso":"CRI",
+    "country_name":"Costa Rica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2008,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":7,
+    "severity rating":7.5,
+    "average deaths per occurance":1.75
+  },
+  {
+    "year":2008,
+    "iso":"CZE",
+    "country_name":"Czech Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2008,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":13,
+    "severity rating":12.6,
+    "average deaths per occurance":4.333333333
+  },
+  {
+    "year":2008,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2008,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":5,
+    "severity rating":5.4,
+    "average deaths per occurance":1.666666667
+  },
+  {
+    "year":2008,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2008,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":17,
+    "severity rating":15.6,
+    "average deaths per occurance":17
+  },
+  {
+    "year":2008,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":698,
+    "severity rating":629.4,
+    "average deaths per occurance":174.5
+  },
+  {
+    "year":2008,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"HKG",
+    "country_name":"Hong Kong",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":2,
+    "severity rating":2.7,
+    "average deaths per occurance":0.666666667
+  },
+  {
+    "year":2008,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":111,
+    "severity rating":100.2,
+    "average deaths per occurance":111
+  },
+  {
+    "year":2008,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":28,
+    "severity rating":25.5,
+    "average deaths per occurance":28
+  },
+  {
+    "year":2008,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":13,
+    "severity rating":12.3,
+    "average deaths per occurance":6.5
+  },
+  {
+    "year":2008,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":105,
+    "severity rating":95.4,
+    "average deaths per occurance":35
+  },
+  {
+    "year":2008,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2008,
+    "iso":"MNG",
+    "country_name":"Mongolia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":52,
+    "severity rating":47.1,
+    "average deaths per occurance":52
+  },
+  {
+    "year":2008,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2008,
+    "iso":"MMR",
+    "country_name":"Myanmar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":138366,
+    "severity rating":124529.7,
+    "average deaths per occurance":138366
+  },
+  {
+    "year":2008,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2008,
+    "iso":"NOR",
+    "country_name":"Norway",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":11,
+    "Total deaths":819,
+    "severity rating":740.4,
+    "average deaths per occurance":74.45454545
+  },
+  {
+    "year":2008,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2008,
+    "iso":"ROU",
+    "country_name":"Romania",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2008,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2008,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":54,
+    "severity rating":50.1,
+    "average deaths per occurance":10.8
+  },
+  {
+    "year":2008,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"TCA",
+    "country_name":"Turks and Caicos Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":4,
+    "severity rating":4.5,
+    "average deaths per occurance":1.333333333
+  },
+  {
+    "year":2008,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2008,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":258,
+    "severity rating":236.4,
+    "average deaths per occurance":18.42857143
+  },
+  {
+    "year":2008,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":254,
+    "severity rating":230.1,
+    "average deaths per occurance":50.8
+  },
+  {
+    "year":2009,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2009,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2009,
+    "iso":"AUT",
+    "country_name":"Austria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":197,
+    "severity rating":177.9,
+    "average deaths per occurance":98.5
+  },
+  {
+    "year":2009,
+    "iso":"BEN",
+    "country_name":"Benin",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"BTN",
+    "country_name":"Bhutan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2009,
+    "iso":"BWA",
+    "country_name":"Botswana",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2009,
+    "iso":"KHM",
+    "country_name":"Cambodia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":19,
+    "severity rating":17.7,
+    "average deaths per occurance":9.5
+  },
+  {
+    "year":2009,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2009,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2009,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":169,
+    "severity rating":155.1,
+    "average deaths per occurance":16.9
+  },
+  {
+    "year":2009,
+    "iso":"CZE",
+    "country_name":"Czech Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2009,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":275,
+    "severity rating":247.8,
+    "average deaths per occurance":275
+  },
+  {
+    "year":2009,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2009,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2009,
+    "iso":"GAB",
+    "country_name":"Gabon",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"GMB",
+    "country_name":"Gambia (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2009,
+    "iso":"HKG",
+    "country_name":"Hong Kong",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":218,
+    "severity rating":198,
+    "average deaths per occurance":36.33333333
+  },
+  {
+    "year":2009,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2009,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":16,
+    "severity rating":15,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2009,
+    "iso":"LAO",
+    "country_name":"Lao People's Democratic Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2009,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":27,
+    "severity rating":25.2,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2009,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2009,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":1242,
+    "severity rating":1122,
+    "average deaths per occurance":88.71428571
+  },
+  {
+    "year":2009,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2009,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":19,
+    "severity rating":17.7,
+    "average deaths per occurance":9.5
+  },
+  {
+    "year":2009,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2009,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":630,
+    "severity rating":567.3,
+    "average deaths per occurance":630
+  },
+  {
+    "year":2009,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2009,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":74,
+    "severity rating":69.6,
+    "average deaths per occurance":7.4
+  },
+  {
+    "year":2009,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":306,
+    "severity rating":276.3,
+    "average deaths per occurance":102
+  },
+  {
+    "year":2010,
+    "iso":"ATG",
+    "country_name":"Antigua and Barbuda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":1,
+    "severity rating":1.8,
+    "average deaths per occurance":0.333333333
+  },
+  {
+    "year":2010,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":26,
+    "severity rating":24.3,
+    "average deaths per occurance":8.666666667
+  },
+  {
+    "year":2010,
+    "iso":"BRB",
+    "country_name":"Barbados",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2010,
+    "iso":"BLZ",
+    "country_name":"Belize",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2010,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":139,
+    "severity rating":126.9,
+    "average deaths per occurance":23.16666667
+  },
+  {
+    "year":2010,
+    "iso":"COK",
+    "country_name":"Cook Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"CRI",
+    "country_name":"Costa Rica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"DNK",
+    "country_name":"Denmark",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"EGY",
+    "country_name":"Egypt",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":31,
+    "severity rating":28.2,
+    "average deaths per occurance":31
+  },
+  {
+    "year":2010,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":17,
+    "severity rating":16.2,
+    "average deaths per occurance":5.666666667
+  },
+  {
+    "year":2010,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2010,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":53,
+    "severity rating":48.3,
+    "average deaths per occurance":26.5
+  },
+  {
+    "year":2010,
+    "iso":"PYF",
+    "country_name":"French Polynesia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2010,
+    "iso":"GAB",
+    "country_name":"Gabon",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2010,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":174,
+    "severity rating":157.5,
+    "average deaths per occurance":58
+  },
+  {
+    "year":2010,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":27,
+    "severity rating":24.9,
+    "average deaths per occurance":13.5
+  },
+  {
+    "year":2010,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":22,
+    "severity rating":20.4,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2010,
+    "iso":"HKG",
+    "country_name":"Hong Kong",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2010,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":287,
+    "severity rating":260.4,
+    "average deaths per occurance":41
+  },
+  {
+    "year":2010,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2010,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":15,
+    "severity rating":13.8,
+    "average deaths per occurance":15
+  },
+  {
+    "year":2010,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":20,
+    "severity rating":18.3,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2010,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2010,
+    "iso":"LUX",
+    "country_name":"Luxembourg",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":120,
+    "severity rating":108.3,
+    "average deaths per occurance":120
+  },
+  {
+    "year":2010,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":43,
+    "severity rating":39.9,
+    "average deaths per occurance":10.75
+  },
+  {
+    "year":2010,
+    "iso":"MMR",
+    "country_name":"Myanmar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":45,
+    "severity rating":40.8,
+    "average deaths per occurance":45
+  },
+  {
+    "year":2010,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":5,
+    "severity rating":5.1,
+    "average deaths per occurance":2.5
+  },
+  {
+    "year":2010,
+    "iso":"OMN",
+    "country_name":"Oman",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2010,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":23,
+    "severity rating":21,
+    "average deaths per occurance":23
+  },
+  {
+    "year":2010,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":212,
+    "severity rating":191.7,
+    "average deaths per occurance":70.66666667
+  },
+  {
+    "year":2010,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2010,
+    "iso":"LCA",
+    "country_name":"Saint Lucia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2010,
+    "iso":"VCT",
+    "country_name":"Saint Vincent and the Grenadines",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":40,
+    "severity rating":36.3,
+    "average deaths per occurance":40
+  },
+  {
+    "year":2010,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2010,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":34,
+    "severity rating":31.2,
+    "average deaths per occurance":17
+  },
+  {
+    "year":2010,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":12,
+    "Total deaths":118,
+    "severity rating":109.8,
+    "average deaths per occurance":9.833333333
+  },
+  {
+    "year":2010,
+    "iso":"VEN",
+    "country_name":"Venezuela (Bolivarian Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2010,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":35,
+    "severity rating":32.4,
+    "average deaths per occurance":11.66666667
+  },
+  {
+    "year":2011,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":21,
+    "severity rating":19.2,
+    "average deaths per occurance":21
+  },
+  {
+    "year":2011,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":13,
+    "severity rating":12,
+    "average deaths per occurance":13
+  },
+  {
+    "year":2011,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2011,
+    "iso":"BDI",
+    "country_name":"Burundi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2011,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":44,
+    "severity rating":41.1,
+    "average deaths per occurance":8.8
+  },
+  {
+    "year":2011,
+    "iso":"DMA",
+    "country_name":"Dominica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":7,
+    "severity rating":6.9,
+    "average deaths per occurance":3.5
+  },
+  {
+    "year":2011,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2011,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "average deaths per occurance":1.5
+  },
+  {
+    "year":2011,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":106,
+    "severity rating":96.3,
+    "average deaths per occurance":35.33333333
+  },
+  {
+    "year":2011,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":86,
+    "severity rating":78.3,
+    "average deaths per occurance":28.66666667
+  },
+  {
+    "year":2011,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2011,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":35,
+    "severity rating":31.8,
+    "average deaths per occurance":35
+  },
+  {
+    "year":2011,
+    "iso":"MTQ",
+    "country_name":"Martinique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":43,
+    "severity rating":40.2,
+    "average deaths per occurance":8.6
+  },
+  {
+    "year":2011,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2011,
+    "iso":"NGA",
+    "country_name":"Nigeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2011,
+    "iso":"NOR",
+    "country_name":"Norway",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2011,
+    "iso":"OMN",
+    "country_name":"Oman",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "average deaths per occurance":14
+  },
+  {
+    "year":2011,
+    "iso":"PNG",
+    "country_name":"Papua New Guinea",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"PER",
+    "country_name":"Peru",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2011,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":12,
+    "Total deaths":1782,
+    "severity rating":1607.4,
+    "average deaths per occurance":148.5
+  },
+  {
+    "year":2011,
+    "iso":"PRI",
+    "country_name":"Puerto Rico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2011,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":6,
+    "severity rating":6,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2011,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":22,
+    "severity rating":20.1,
+    "average deaths per occurance":22
+  },
+  {
+    "year":2011,
+    "iso":"SDN",
+    "country_name":"Sudan (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":20,
+    "severity rating":18.3,
+    "average deaths per occurance":20
+  },
+  {
+    "year":2011,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":18,
+    "severity rating":16.5,
+    "average deaths per occurance":18
+  },
+  {
+    "year":2011,
+    "iso":"TON",
+    "country_name":"Tonga",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"UGA",
+    "country_name":"Uganda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":23,
+    "severity rating":21,
+    "average deaths per occurance":23
+  },
+  {
+    "year":2011,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":762,
+    "severity rating":690,
+    "average deaths per occurance":54.42857143
+  },
+  {
+    "year":2011,
+    "iso":"VUT",
+    "country_name":"Vanuatu",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":16,
+    "severity rating":15,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2012,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":19,
+    "severity rating":17.7,
+    "average deaths per occurance":9.5
+  },
+  {
+    "year":2012,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2012,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":133,
+    "severity rating":120.3,
+    "average deaths per occurance":66.5
+  },
+  {
+    "year":2012,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":75,
+    "severity rating":69.9,
+    "average deaths per occurance":9.375
+  },
+  {
+    "year":2012,
+    "iso":"CUB",
+    "country_name":"Cuba",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":12,
+    "severity rating":11.4,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2012,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2012,
+    "iso":"FJI",
+    "country_name":"Fiji",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2012,
+    "iso":"GEO",
+    "country_name":"Georgia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":88,
+    "severity rating":79.8,
+    "average deaths per occurance":44
+  },
+  {
+    "year":2012,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":40,
+    "severity rating":36.3,
+    "average deaths per occurance":40
+  },
+  {
+    "year":2012,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":21,
+    "severity rating":19.5,
+    "average deaths per occurance":10.5
+  },
+  {
+    "year":2012,
+    "iso":"JAM",
+    "country_name":"Jamaica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2012,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":143,
+    "severity rating":130.5,
+    "average deaths per occurance":23.83333333
+  },
+  {
+    "year":2012,
+    "iso":"PRK",
+    "country_name":"Korea (the Democratic People's Republic of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":59,
+    "severity rating":53.4,
+    "average deaths per occurance":59
+  },
+  {
+    "year":2012,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":22,
+    "severity rating":20.7,
+    "average deaths per occurance":7.333333333
+  },
+  {
+    "year":2012,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":112,
+    "severity rating":101.7,
+    "average deaths per occurance":37.33333333
+  },
+  {
+    "year":2012,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":19,
+    "severity rating":17.7,
+    "average deaths per occurance":9.5
+  },
+  {
+    "year":2012,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":33,
+    "severity rating":30.6,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2012,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2012,
+    "iso":"NGA",
+    "country_name":"Nigeria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":15,
+    "severity rating":13.8,
+    "average deaths per occurance":15
+  },
+  {
+    "year":2012,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2012,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":2039,
+    "severity rating":1837.8,
+    "average deaths per occurance":226.5555556
+  },
+  {
+    "year":2012,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2012,
+    "iso":"PRI",
+    "country_name":"Puerto Rico",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"WSM",
+    "country_name":"Samoa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2012,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2012,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":14,
+    "severity rating":13.2,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2012,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":19,
+    "Total deaths":190,
+    "severity rating":176.7,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2012,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":38,
+    "severity rating":35.1,
+    "average deaths per occurance":12.66666667
+  },
+  {
+    "year":2012,
+    "iso":"WLF",
+    "country_name":"Wallis and Futuna",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2013,
+    "iso":"ARM",
+    "country_name":"Armenia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2013,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":50,
+    "severity rating":45.9,
+    "average deaths per occurance":16.66666667
+  },
+  {
+    "year":2013,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"BRA",
+    "country_name":"Brazil",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2013,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":15,
+    "Total deaths":265,
+    "severity rating":243,
+    "average deaths per occurance":17.66666667
+  },
+  {
+    "year":2013,
+    "iso":"DNK",
+    "country_name":"Denmark",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2013,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2013,
+    "iso":"GEO",
+    "country_name":"Georgia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":7,
+    "severity rating":7.2,
+    "average deaths per occurance":2.333333333
+  },
+  {
+    "year":2013,
+    "iso":"HUN",
+    "country_name":"Hungary",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":106,
+    "severity rating":96.9,
+    "average deaths per occurance":21.2
+  },
+  {
+    "year":2013,
+    "iso":"ISR",
+    "country_name":"Israel",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2013,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":7,
+    "Total deaths":57,
+    "severity rating":53.4,
+    "average deaths per occurance":8.142857143
+  },
+  {
+    "year":2013,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":51,
+    "severity rating":46.5,
+    "average deaths per occurance":25.5
+  },
+  {
+    "year":2013,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":210,
+    "severity rating":190.2,
+    "average deaths per occurance":52.5
+  },
+  {
+    "year":2013,
+    "iso":"NLD",
+    "country_name":"Netherlands (the)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":2,
+    "severity rating":2.7,
+    "average deaths per occurance":0.666666667
+  },
+  {
+    "year":2013,
+    "iso":"NZL",
+    "country_name":"New Zealand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"PLW",
+    "country_name":"Palau",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"PSE",
+    "country_name":"Palestine, State of",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2013,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":8,
+    "Total deaths":7415,
+    "severity rating":6675.9,
+    "average deaths per occurance":926.875
+  },
+  {
+    "year":2013,
+    "iso":"POL",
+    "country_name":"Poland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2013,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2013,
+    "iso":"SYC",
+    "country_name":"Seychelles",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":162,
+    "severity rating":146.1,
+    "average deaths per occurance":162
+  },
+  {
+    "year":2013,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2013,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"LKA",
+    "country_name":"Sri Lanka",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2013,
+    "iso":"SWE",
+    "country_name":"Sweden",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2013,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":5,
+    "severity rating":5.4,
+    "average deaths per occurance":1.666666667
+  },
+  {
+    "year":2013,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":11,
+    "severity rating":10.8,
+    "average deaths per occurance":3.666666667
+  },
+  {
+    "year":2013,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":15,
+    "Total deaths":140,
+    "severity rating":130.5,
+    "average deaths per occurance":9.333333333
+  },
+  {
+    "year":2013,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":79,
+    "severity rating":72.3,
+    "average deaths per occurance":19.75
+  },
+  {
+    "year":2014,
+    "iso":"AFG",
+    "country_name":"Afghanistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":63,
+    "severity rating":57,
+    "average deaths per occurance":63
+  },
+  {
+    "year":2014,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":20,
+    "severity rating":18.6,
+    "average deaths per occurance":10
+  },
+  {
+    "year":2014,
+    "iso":"BEL",
+    "country_name":"Belgium",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"BMU",
+    "country_name":"Bermuda",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":16,
+    "Total deaths":329,
+    "severity rating":300.9,
+    "average deaths per occurance":20.5625
+  },
+  {
+    "year":2014,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2014,
+    "iso":"COM",
+    "country_name":"Comoros (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":8,
+    "severity rating":8.4,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2014,
+    "iso":"DEU",
+    "country_name":"Germany",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":8,
+    "severity rating":7.8,
+    "average deaths per occurance":4
+  },
+  {
+    "year":2014,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2014,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":111,
+    "severity rating":101.4,
+    "average deaths per occurance":22.2
+  },
+  {
+    "year":2014,
+    "iso":"IRL",
+    "country_name":"Ireland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2014,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":129,
+    "severity rating":118.8,
+    "average deaths per occurance":14.33333333
+  },
+  {
+    "year":2014,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":24,
+    "severity rating":22.2,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2014,
+    "iso":"KGZ",
+    "country_name":"Kyrgyzstan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"LSO",
+    "country_name":"Lesotho",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":17,
+    "severity rating":15.6,
+    "average deaths per occurance":17
+  },
+  {
+    "year":2014,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":6,
+    "Total deaths":19,
+    "severity rating":18.9,
+    "average deaths per occurance":3.166666667
+  },
+  {
+    "year":2014,
+    "iso":"MAR",
+    "country_name":"Morocco",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":49,
+    "severity rating":44.7,
+    "average deaths per occurance":24.5
+  },
+  {
+    "year":2014,
+    "iso":"NPL",
+    "country_name":"Nepal",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":83,
+    "severity rating":75,
+    "average deaths per occurance":83
+  },
+  {
+    "year":2014,
+    "iso":"PAK",
+    "country_name":"Pakistan",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":16,
+    "severity rating":14.7,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2014,
+    "iso":"PNG",
+    "country_name":"Papua New Guinea",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":326,
+    "severity rating":296.1,
+    "average deaths per occurance":36.22222222
+  },
+  {
+    "year":2014,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "average deaths per occurance":0.5
+  },
+  {
+    "year":2014,
+    "iso":"REU",
+    "country_name":"R�union",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2014,
+    "iso":"CHE",
+    "country_name":"Switzerland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2014,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2014,
+    "iso":"TON",
+    "country_name":"Tonga",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2014,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":14,
+    "Total deaths":139,
+    "severity rating":129.3,
+    "average deaths per occurance":9.928571429
+  },
+  {
+    "year":2014,
+    "iso":"VUT",
+    "country_name":"Vanuatu",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2014,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":38,
+    "severity rating":35.1,
+    "average deaths per occurance":12.66666667
+  },
+  {
+    "year":2015,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "average deaths per occurance":8
+  },
+  {
+    "year":2015,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":4,
+    "severity rating":4.5,
+    "average deaths per occurance":1.333333333
+  },
+  {
+    "year":2015,
+    "iso":"BHS",
+    "country_name":"Bahamas (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":35,
+    "severity rating":31.8,
+    "average deaths per occurance":35
+  },
+  {
+    "year":2015,
+    "iso":"BGD",
+    "country_name":"Bangladesh",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":98,
+    "severity rating":89.1,
+    "average deaths per occurance":32.66666667
+  },
+  {
+    "year":2015,
+    "iso":"CPV",
+    "country_name":"Cabo Verde",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "average deaths per occurance":9
+  },
+  {
+    "year":2015,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2015,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "average deaths per occurance":6
+  },
+  {
+    "year":2015,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Storm",
+    "occurrence":9,
+    "Total deaths":58,
+    "severity rating":54.9,
+    "average deaths per occurance":6.444444444
+  },
+  {
+    "year":2015,
+    "iso":"DMA",
+    "country_name":"Dominica",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":30,
+    "severity rating":27.3,
+    "average deaths per occurance":30
+  },
+  {
+    "year":2015,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"SLV",
+    "country_name":"El Salvador",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "average deaths per occurance":12
+  },
+  {
+    "year":2015,
+    "iso":"HTI",
+    "country_name":"Haiti",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2015,
+    "iso":"IND",
+    "country_name":"India",
+    "disaster type":"Storm",
+    "occurrence":4,
+    "Total deaths":92,
+    "severity rating":84,
+    "average deaths per occurance":23
+  },
+  {
+    "year":2015,
+    "iso":"IRL",
+    "country_name":"Ireland",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "average deaths per occurance":1
+  },
+  {
+    "year":2015,
+    "iso":"ISR",
+    "country_name":"Israel",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Storm",
+    "occurrence":5,
+    "Total deaths":11,
+    "severity rating":11.4,
+    "average deaths per occurance":2.2
+  },
+  {
+    "year":2015,
+    "iso":"KIR",
+    "country_name":"Kiribati",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"LBN",
+    "country_name":"Lebanon",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":5,
+    "severity rating":5.4,
+    "average deaths per occurance":1.666666667
+  },
+  {
+    "year":2015,
+    "iso":"MDG",
+    "country_name":"Madagascar",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":95,
+    "severity rating":86.1,
+    "average deaths per occurance":47.5
+  },
+  {
+    "year":2015,
+    "iso":"MWI",
+    "country_name":"Malawi",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2015,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":43,
+    "severity rating":39.6,
+    "average deaths per occurance":14.33333333
+  },
+  {
+    "year":2015,
+    "iso":"FSM",
+    "country_name":"Micronesia (Federated States of)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "average deaths per occurance":5
+  },
+  {
+    "year":2015,
+    "iso":"MMR",
+    "country_name":"Myanmar",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2015,
+    "iso":"MNP",
+    "country_name":"Northern Mariana Islands (the)",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"PSE",
+    "country_name":"Palestine, State of",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":4,
+    "severity rating":4.2,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2015,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "average deaths per occurance":2
+  },
+  {
+    "year":2015,
+    "iso":"PHL",
+    "country_name":"Philippines (the)",
+    "disaster type":"Storm",
+    "occurrence":10,
+    "Total deaths":148,
+    "severity rating":136.2,
+    "average deaths per occurance":14.8
+  },
+  {
+    "year":2015,
+    "iso":"SLB",
+    "country_name":"Solomon Islands",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":9,
+    "severity rating":8.7,
+    "average deaths per occurance":4.5
+  },
+  {
+    "year":2015,
+    "iso":"SOM",
+    "country_name":"Somalia",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"SYR",
+    "country_name":"Syrian Arab Republic",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":13,
+    "severity rating":12.3,
+    "average deaths per occurance":6.5
+  },
+  {
+    "year":2015,
+    "iso":"TWN",
+    "country_name":"Taiwan (Province of China)",
+    "disaster type":"Storm",
+    "occurrence":3,
+    "Total deaths":9,
+    "severity rating":9,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2015,
+    "iso":"TZA",
+    "country_name":"Tanzania, United Republic of",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":47,
+    "severity rating":42.6,
+    "average deaths per occurance":47
+  },
+  {
+    "year":2015,
+    "iso":"TUV",
+    "country_name":"Tuvalu",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"GBR",
+    "country_name":"United Kingdom of Great Britain and Northern Irela",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "average deaths per occurance":3
+  },
+  {
+    "year":2015,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Storm",
+    "occurrence":12,
+    "Total deaths":175,
+    "severity rating":161.1,
+    "average deaths per occurance":14.58333333
+  },
+  {
+    "year":2015,
+    "iso":"VUT",
+    "country_name":"Vanuatu",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "average deaths per occurance":11
+  },
+  {
+    "year":2015,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "average deaths per occurance":7
+  },
+  {
+    "year":2015,
+    "iso":"YEM",
+    "country_name":"Yemen",
+    "disaster type":"Storm",
+    "occurrence":2,
+    "Total deaths":32,
+    "severity rating":29.4,
+    "average deaths per occurance":16
+  },
+  {
+    "year":2015,
+    "iso":"ZWE",
+    "country_name":"Zimbabwe",
+    "disaster type":"Storm",
+    "occurrence":1,
+    "Total deaths":10,
+    "severity rating":9.3,
+    "average deaths per occurance":10
+  }
+]
