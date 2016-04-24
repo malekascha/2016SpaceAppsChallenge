@@ -11,7 +11,7 @@ module.exports = function(app){
   app.get('/eonet', function(req, res){
     let url_parts = url.parse(req.url, true);
     let query = url_parts.query;
-    eonet.getAllEvents(query);
+    eonet.getAllEvents(query, res);
   });
 
   app.get('/population', function(req, res){
