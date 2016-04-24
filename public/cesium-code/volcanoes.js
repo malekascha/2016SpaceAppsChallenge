@@ -8,7 +8,7 @@ var createVolcanoMarker = function(data){
   if(data.injuries){
     result.description += '<h4>Injuries: ' + data.injuries + '</h4>';
   }
-  result.position = Cesium.Cartesian3.fromDegrees(data.lat,data.long);
+  result.position = Cesium.Cartesian3.fromDegrees(data.long,data.lat);
   result.point = {
     pixelSize: 4,
     color: Cesium.Color.RED,
