@@ -6,46 +6,30 @@
   <style>
       @import url(node_modules/cesium/Build/CesiumUnminified/Widgets/widgets.css);
       html, body, #cesiumContainer {
-           width: 100%;
-           height: 100%;
-           margin: 0;
-           padding: 0;
-           overflow: hidden;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
       }
 
-      .population {
+      .toolbar-left {
         display: block;
         position: absolute;
         top: 5px;
         left: 5px;
       }
-
-      .earthquakes {
-        display: block;
-        position: absolute;
-        top: 5px;
-        left: 80px;
-      }
-
-      .toolbar-left-3 {
-        display: block;
-        position: absolute;
-        top: 5px;
-        left: 155px;
-      }
   </style>
 </head>
 <body>
   <div id="cesiumContainer"></div>
-  <div class="population">
-    <button>Populations</button>
-  </div>
-  <div class="earthquakes">
+  <div class="toolbar-left">
+    <button class="population">Populations</button>
     <button>Earthquakes</button>
+    <button class="eonet">Current Events</button>
   </div>
-  <div class="toolbar-left-3">
-    <button>Click me!</button>
-  </div>
+
+  <script type="text/javascript" src="cesium-code/circles.js"></script>
   <script type="text/javascript" src="cesium-code/app.js"></script>
 </body>
 </html>

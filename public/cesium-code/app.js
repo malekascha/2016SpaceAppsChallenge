@@ -31,41 +31,7 @@ for(var i = julianStart; i <= julianStop; i += 365){
 var intervalCollection = new Cesium.TimeIntervalCollection(intervals);
 
 
-var redCircle = function(long,lat,pop,size,countryName) {
-   return {
-     position: Cesium.Cartesian3.fromDegrees(long, lat),
-     cylinder : {
-       topRadius : 20,
-       bottomRadius : size,
-       length: size,
-       material : Cesium.Color.BLUE.withAlpha(0.5)
-     },
-     label: {
-      
-     }
-   };
-};
 
-var circleMaker = function(objArr) {
- var popArr = [], long, lat, pop, size, countryName; 
- for(var i = 0; i < objArr.length; i++) {
-  if(!objArr[i].long){
-    continue;
-  }
-   pop = objArr[i].population;
-   long = objArr[i].long;
-   lat = objArr[i].lat;
-   size = sizer(pop);
-   countryName = objArr[i].name;
-   popArr.push(viewer.entities.add(redCircle(long, lat, pop, size, countryName)));
- }
- return popArr;
-};
-
-var sizer = function(pop) {
- var popLimit = 100000000, base = 100000;
- return size = (pop/popLimit) * base;
-};
 var currentUpdateFunction = function(){
   return;
 };
@@ -80,11 +46,13 @@ viewer.clock.onTick.addEventListener(updateMap);
 
 $('button').click(function(e){
   e.preventDefault();
-  var elem = $(this).parent();
+  var elem = $(this);
   if(elem.hasClass('population')){
     currentUpdateFunction = updateFunctions.population;
   } else if (elem.hasClass('earthquakes')) {
     currentUpdateFunction = updateFunctions.earthquakes;
+  } else if (elem.hasClass('eonet')){
+    currentUpdateFunction = updateFunctions.eonet;
   }
   renderData();
 })
@@ -106,9 +74,16 @@ var updateFunctions = {
     $.ajax({
         url: '/data/population?year=' + newYear,
         success: function(res){
-          console.dir(res);
           viewer.entities.add(circleMaker(res));
         }
     });
+  },
+  eonet: function(){
+    $.ajax({
+      url: '/data/eonet',
+      success: function(res){
+        
+      }
+    })
   }
 }
