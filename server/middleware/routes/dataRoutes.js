@@ -10,6 +10,8 @@ const drought = require('./../../API-calls/queryDrought.js');
 
 const storm = require('./../../API-calls/queryStorms.js');
 
+const volcano = require('./../../API-calls/queryVolcano.js');
+const wildfire = require('./../../API-calls/queryWildfire.js');
 
 module.exports = function(app){
   app.get('/eonet', function(req, res){
@@ -31,6 +33,12 @@ module.exports = function(app){
     res.send(earthquake.getEarthquakesByYear(query.year));
   });
 
+    app.get('/volcano', function(req, res){
+    let url_parts = url.parse(req.url, true);
+    let query = url_parts.query;
+    res.send(volcano.getVolcanoByYear(query.year));
+  });
+
   app.get('/flood', function(req, res){
     let url_parts = url.parse(req.url, true);
     let query = url_parts.query;
@@ -40,7 +48,7 @@ module.exports = function(app){
     app.get('/wildfire', function(req, res){
     let url_parts = url.parse(req.url, true);
     let query = url_parts.query;
-    res.send(flood.getFloodsByYear(query.year));
+    res.send(wildfire.getWildfireByYear(query.year));
   })
 
   app.get('/drought', function(req, res){
