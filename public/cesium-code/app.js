@@ -82,8 +82,15 @@ var updateFunctions = {
     $.ajax({
       url: '/data/eonet',
       success: function(res){
-        console.dir(res);
         viewer.entities.add(generateEventCollection(JSON.parse(res)));
+      }
+    })
+  },
+  earthquakes: function(newYear) {
+    $.ajax({
+      url: '/data/earthquake?year=' + newYear,
+      success: function(res){
+        generateEarthquakeCollection(res);
       }
     })
   }
