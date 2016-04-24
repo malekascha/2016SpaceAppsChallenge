@@ -1,0 +1,1322 @@
+[
+  {
+    "year":2000,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "Average deaths per occurance":8
+  },
+  {
+    "year":2000,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "Average deaths per occurance":7
+  },
+  {
+    "year":2000,
+    "iso":"HRV",
+    "country_name":"Croatia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2000,
+    "iso":"CYP",
+    "country_name":"Cyprus",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"ETH",
+    "country_name":"Ethiopia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":9,
+    "severity rating":8.7,
+    "Average deaths per occurance":4.5
+  },
+  {
+    "year":2000,
+    "iso":"HND",
+    "country_name":"Honduras",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2000,
+    "iso":"MKD",
+    "country_name":"Macedonia (the former Yugoslav Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":5,
+    "Total deaths":null,
+    "severity rating":1.5,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"SCG",
+    "country_name":"Serbia Montenegro",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"SVK",
+    "country_name":"Slovakia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "Average deaths per occurance":6
+  },
+  {
+    "year":2000,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"TUR",
+    "country_name":"Turkey",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2000,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":7,
+    "Total deaths":14,
+    "severity rating":14.7,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2001,
+    "iso":"ARG",
+    "country_name":"Argentina",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2001,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":31,
+    "severity rating":28.5,
+    "Average deaths per occurance":15.5
+  },
+  {
+    "year":2001,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":2,
+    "severity rating":2.7,
+    "Average deaths per occurance":0.666666667
+  },
+  {
+    "year":2002,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2002,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"CAF",
+    "country_name":"Central African Republic",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2002,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"IRN",
+    "country_name":"Iran (Islamic Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"JPN",
+    "country_name":"Japan",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"NIC",
+    "country_name":"Nicaragua",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":null,
+    "severity rating":0.9,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "Average deaths per occurance":3
+  },
+  {
+    "year":2002,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":8,
+    "Total deaths":null,
+    "severity rating":2.4,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2002,
+    "iso":"VNM",
+    "country_name":"Viet Nam",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "Average deaths per occurance":4
+  },
+  {
+    "year":2003,
+    "iso":"BIH",
+    "country_name":"Bosnia and Herzegovina",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2003,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"HRV",
+    "country_name":"Croatia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "Average deaths per occurance":5
+  },
+  {
+    "year":2003,
+    "iso":"GTM",
+    "country_name":"Guatemala",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":14,
+    "severity rating":12.9,
+    "Average deaths per occurance":14
+  },
+  {
+    "year":2003,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2003,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "Average deaths per occurance":5
+  },
+  {
+    "year":2003,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":18,
+    "severity rating":17.1,
+    "Average deaths per occurance":6
+  },
+  {
+    "year":2004,
+    "iso":"GIN",
+    "country_name":"Guinea",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2004,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2004,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "Average deaths per occurance":9
+  },
+  {
+    "year":2004,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "Average deaths per occurance":3
+  },
+  {
+    "year":2004,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":null,
+    "severity rating":0.9,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "Average deaths per occurance":12
+  },
+  {
+    "year":2005,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"DOM",
+    "country_name":"Dominican Republic (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2005,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"KOR",
+    "country_name":"Korea (the Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"MYS",
+    "country_name":"Malaysia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":15,
+    "severity rating":13.8,
+    "Average deaths per occurance":15
+  },
+  {
+    "year":2005,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "Average deaths per occurance":11
+  },
+  {
+    "year":2005,
+    "iso":"THA",
+    "country_name":"Thailand",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2005,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "Average deaths per occurance":5
+  },
+  {
+    "year":2006,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":4,
+    "severity rating":4.5,
+    "Average deaths per occurance":1.333333333
+  },
+  {
+    "year":2006,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"PAN",
+    "country_name":"Panama",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2006,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "Average deaths per occurance":4
+  },
+  {
+    "year":2006,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":5,
+    "severity rating":5.4,
+    "Average deaths per occurance":1.666666667
+  },
+  {
+    "year":2007,
+    "iso":"ALB",
+    "country_name":"Albania",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"DZA",
+    "country_name":"Algeria",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "Average deaths per occurance":8
+  },
+  {
+    "year":2007,
+    "iso":"BGR",
+    "country_name":"Bulgaria",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "Average deaths per occurance":1.5
+  },
+  {
+    "year":2007,
+    "iso":"SPI",
+    "country_name":"Canary Is",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2007,
+    "iso":"HRV",
+    "country_name":"Croatia",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":12,
+    "severity rating":11.4,
+    "Average deaths per occurance":6
+  },
+  {
+    "year":2007,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":68,
+    "severity rating":61.8,
+    "Average deaths per occurance":34
+  },
+  {
+    "year":2007,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":11,
+    "severity rating":10.2,
+    "Average deaths per occurance":11
+  },
+  {
+    "year":2007,
+    "iso":"LBN",
+    "country_name":"Lebanon",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"MKD",
+    "country_name":"Macedonia (the former Yugoslav Republic of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2007,
+    "iso":"PRY",
+    "country_name":"Paraguay",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "Average deaths per occurance":8
+  },
+  {
+    "year":2007,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":26,
+    "severity rating":23.7,
+    "Average deaths per occurance":26
+  },
+  {
+    "year":2007,
+    "iso":"SWZ",
+    "country_name":"Swaziland",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2007,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":8,
+    "severity rating":8.1,
+    "Average deaths per occurance":2.666666667
+  },
+  {
+    "year":2008,
+    "iso":"MOZ",
+    "country_name":"Mozambique",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":49,
+    "severity rating":44.4,
+    "Average deaths per occurance":49
+  },
+  {
+    "year":2008,
+    "iso":"ZAF",
+    "country_name":"South Africa",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":34,
+    "severity rating":30.9,
+    "Average deaths per occurance":34
+  },
+  {
+    "year":2008,
+    "iso":"TUR",
+    "country_name":"Turkey",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2008,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "Average deaths per occurance":0.5
+  },
+  {
+    "year":2009,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":180,
+    "severity rating":162.3,
+    "Average deaths per occurance":180
+  },
+  {
+    "year":2009,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"FRA",
+    "country_name":"France",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"GRC",
+    "country_name":"Greece",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":null,
+    "severity rating":0.6,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2009,
+    "iso":"ITA",
+    "country_name":"Italy",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2009,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":6,
+    "severity rating":5.7,
+    "Average deaths per occurance":6
+  },
+  {
+    "year":2009,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2010,
+    "iso":"BOL",
+    "country_name":"Bolivia (Plurinational State of)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2010,
+    "iso":"CHN",
+    "country_name":"China",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":22,
+    "severity rating":20.1,
+    "Average deaths per occurance":22
+  },
+  {
+    "year":2010,
+    "iso":"COL",
+    "country_name":"Colombia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":31,
+    "severity rating":28.2,
+    "Average deaths per occurance":31
+  },
+  {
+    "year":2010,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":8,
+    "severity rating":7.5,
+    "Average deaths per occurance":8
+  },
+  {
+    "year":2010,
+    "iso":"ISR",
+    "country_name":"Israel",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":44,
+    "severity rating":39.9,
+    "Average deaths per occurance":44
+  },
+  {
+    "year":2010,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":61,
+    "severity rating":55.5,
+    "Average deaths per occurance":30.5
+  },
+  {
+    "year":2011,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2011,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":1,
+    "severity rating":1.5,
+    "Average deaths per occurance":0.5
+  },
+  {
+    "year":2011,
+    "iso":"MEX",
+    "country_name":"Mexico",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2011,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":8,
+    "severity rating":8.1,
+    "Average deaths per occurance":2.666666667
+  },
+  {
+    "year":2012,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":7,
+    "severity rating":6.6,
+    "Average deaths per occurance":7
+  },
+  {
+    "year":2012,
+    "iso":"ECU",
+    "country_name":"Ecuador",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":5,
+    "severity rating":4.8,
+    "Average deaths per occurance":5
+  },
+  {
+    "year":2012,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2012,
+    "iso":"ESP",
+    "country_name":"Spain",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":4,
+    "severity rating":3.9,
+    "Average deaths per occurance":4
+  },
+  {
+    "year":2012,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "Average deaths per occurance":1.5
+  },
+  {
+    "year":2013,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":3,
+    "severity rating":3.3,
+    "Average deaths per occurance":1.5
+  },
+  {
+    "year":2013,
+    "iso":"BEN",
+    "country_name":"Benin",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2013,
+    "iso":"PRT",
+    "country_name":"Portugal",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":9,
+    "severity rating":8.4,
+    "Average deaths per occurance":9
+  },
+  {
+    "year":2013,
+    "iso":"SLE",
+    "country_name":"Sierra Leone",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2013,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":5,
+    "Total deaths":22,
+    "severity rating":21.3,
+    "Average deaths per occurance":4.4
+  },
+  {
+    "year":2014,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":2,
+    "severity rating":2.4,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":12,
+    "severity rating":11.1,
+    "Average deaths per occurance":12
+  },
+  {
+    "year":2014,
+    "iso":"SWE",
+    "country_name":"Sweden",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2014,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":2,
+    "severity rating":2.1,
+    "Average deaths per occurance":2
+  },
+  {
+    "year":2015,
+    "iso":"AUS",
+    "country_name":"Australia",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":2,
+    "severity rating":2.7,
+    "Average deaths per occurance":0.666666667
+  },
+  {
+    "year":2015,
+    "iso":"CAN",
+    "country_name":"Canada",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":null,
+    "severity rating":0.3,
+    "Average deaths per occurance":0
+  },
+  {
+    "year":2015,
+    "iso":"CHL",
+    "country_name":"Chile",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":1,
+    "severity rating":1.2,
+    "Average deaths per occurance":1
+  },
+  {
+    "year":2015,
+    "iso":"COD",
+    "country_name":"Congo (the Democratic Republic of the)",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":3,
+    "severity rating":3,
+    "Average deaths per occurance":3
+  },
+  {
+    "year":2015,
+    "iso":"IDN",
+    "country_name":"Indonesia",
+    "disaster type":"Wildfire",
+    "occurrence":1,
+    "Total deaths":19,
+    "severity rating":17.4,
+    "Average deaths per occurance":19
+  },
+  {
+    "year":2015,
+    "iso":"RUS",
+    "country_name":"Russian Federation (the)",
+    "disaster type":"Wildfire",
+    "occurrence":2,
+    "Total deaths":30,
+    "severity rating":27.6,
+    "Average deaths per occurance":15
+  },
+  {
+    "year":2015,
+    "iso":"USA",
+    "country_name":"United States of America (the)",
+    "disaster type":"Wildfire",
+    "occurrence":3,
+    "Total deaths":11,
+    "severity rating":10.8,
+    "Average deaths per occurance":3.666666667
+  }
+]
