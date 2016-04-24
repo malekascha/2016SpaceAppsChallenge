@@ -42,8 +42,8 @@ var updateMap = function(e){
     currentInterval = interval;
   }
 };
-viewer.clock.onTick.addEventListener(updateMap);
-
+viewer.clock.onTick.addEventListener(updateMap); 
+var init = true;
 $('button').click(function(e){
   e.preventDefault();
   var elem = $(this);
@@ -56,6 +56,10 @@ $('button').click(function(e){
   } else if (elem.hasClass('volcanoes')){
     currentUpdateFunction = updateFunctions.volcanoes;
   }
+  if(!init){
+    $('.spinner').css('visibility','visible');
+  }
+  init = false;
   renderData();
 })
 
@@ -69,6 +73,7 @@ function renderData(){
   var newYear = getYearFromJulian(viewer.clock.currentTime);
   viewer.entities.removeAll();
   currentUpdateFunction(newYear);
+
 }
 
 var updateFunctions = {
@@ -77,6 +82,7 @@ var updateFunctions = {
         url: '/data/population?year=' + newYear,
         success: function(res){
           viewer.entities.add(circleMaker(res));
+          $('.spinner').css('visibility','hidden');
         }
     });
   },
@@ -85,6 +91,7 @@ var updateFunctions = {
       url: '/data/eonet',
       success: function(res){
         viewer.entities.add(generateEventCollection(JSON.parse(res)));
+        $('.spinner').css('visibility','hidden');
       }
     })
   },
@@ -93,6 +100,7 @@ var updateFunctions = {
       url: '/data/earthquake?year=' + newYear,
       success: function(res){
         generateEarthquakeCollection(res);
+        $('.spinner').css('visibility','hidden');
       }
     })
   },
