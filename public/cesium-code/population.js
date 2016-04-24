@@ -8,13 +8,13 @@ var redCircle = function(long,lat,pop,size,countryName) {
        material : Cesium.Color.BLUE.withAlpha(0.5)
      },
      label: {
-      
+
      }
    };
 };
 
 var circleMaker = function(objArr) {
- var popArr = [], long, lat, pop, size, countryName; 
+ var popArr = [], long, lat, pop, size, countryName;
  for(var i = 0; i < objArr.length; i++) {
   if(!objArr[i].long){
     continue;
@@ -30,6 +30,6 @@ var circleMaker = function(objArr) {
 };
 
 var sizer = function(pop) {
- var popLimit = 100000000, base = 100000;
- return size = (pop/popLimit) * base;
+ var base = 700;
+ return size = (Math.pow(pop, 0.33)) * base;
 };
