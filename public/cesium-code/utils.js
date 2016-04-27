@@ -1,4 +1,4 @@
-var createEarthquakeMarker = function(data){
+var createMarker = function(data){
   var result = {};
   result.name = data.name;
   result.description = '';
@@ -16,13 +16,13 @@ var createEarthquakeMarker = function(data){
     outlineWidth: 3
   }
   return result;
-}
+};
 
-var generateEarthquakeCollection = function(earthquakes){
+var generateEntities = function(collection){
   var entities = [];
-  earthquakes.forEach(function(item){
-    var entity = viewer.entities.add(createEarthquakeMarker(item));
+  collection.forEach(function(item){
+    var entity = viewer.entities.add(createMarker(item));
     entities.push(entity);
   });
   return entities;
-}
+};
