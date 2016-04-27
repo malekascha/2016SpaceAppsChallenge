@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "install": "npm install && cd public && npm install && cd ..",
+    "postinstall": "cd public && npm install",
     "start": "node server/server.js"
   },
   "author": "",
