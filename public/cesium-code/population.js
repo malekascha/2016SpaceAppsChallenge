@@ -1,6 +1,8 @@
 var redCircle = function(long,lat,pop,size,countryName) {
    return {
      position: Cesium.Cartesian3.fromDegrees(long, lat),
+     description: '<h4>Population: ' + pop + '</h4>',
+     name: countryName,
      cylinder : {
        topRadius : 20,
        bottomRadius : size,

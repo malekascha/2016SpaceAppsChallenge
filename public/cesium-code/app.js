@@ -1,5 +1,5 @@
 var julianStart = 2451545;
-var julianStop = 2457135;
+var julianStop = 2456770;
 
 var clock = new Cesium.Clock({
   startTime: new Cesium.JulianDate(julianStart),
