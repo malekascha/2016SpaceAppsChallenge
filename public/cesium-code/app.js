@@ -1,5 +1,5 @@
 var julianStart = 2451545;
-var julianStop = 2457135;
+var julianStop = 2456770;
 
 var clock = new Cesium.Clock({
   startTime: new Cesium.JulianDate(julianStart),
@@ -35,7 +35,7 @@ var intervalCollection = new Cesium.TimeIntervalCollection(intervals);
 var currentUpdateFunction = function(){
   return;
 };
-var updateMap = function(e){
+var updateMap = function(){
   var interval = intervalCollection.findIntervalContainingDate(viewer.clock.currentTime);
   if(!(interval === currentInterval)){
     renderData();
@@ -43,7 +43,6 @@ var updateMap = function(e){
   }
 };
 viewer.clock.onTick.addEventListener(updateMap); 
-var init = true;
 $('button').click(function(e){
   e.preventDefault();
   var elem = $(this);
@@ -56,10 +55,6 @@ $('button').click(function(e){
   } else if (elem.hasClass('volcanoes')){
     currentUpdateFunction = updateFunctions.volcanoes;
   }
-  if(!init){
-    $('.spinner').css('visibility','visible');
-  }
-  init = false;
   renderData();
 })
 
@@ -82,7 +77,7 @@ var updateFunctions = {
         url: '/data/population?year=' + newYear,
         success: function(res){
           viewer.entities.add(circleMaker(res));
-          $('.spinner').css('visibility','hidden');
+
         }
     });
   },
@@ -91,7 +86,6 @@ var updateFunctions = {
       url: '/data/eonet',
       success: function(res){
         viewer.entities.add(generateEventCollection(JSON.parse(res)));
-        $('.spinner').css('visibility','hidden');
       }
     })
   },
@@ -99,8 +93,7 @@ var updateFunctions = {
     $.ajax({
       url: '/data/earthquake?year=' + newYear,
       success: function(res){
-        generateEarthquakeCollection(res);
-        $('.spinner').css('visibility','hidden');
+        generateEntities(res);
       }
     })
   },
@@ -108,8 +101,7 @@ var updateFunctions = {
     $.ajax({
       url: '/data/volcano?year=' + newYear,
       success: function(res){
-        generateVolcanoCollection(res);
-        $('.spinner').css('visibility','hidden');
+        generateEntities(res);
       }
     })
   }
